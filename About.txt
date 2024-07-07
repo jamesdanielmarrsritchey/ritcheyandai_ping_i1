@@ -1,0 +1,15 @@
+Name: Ritchey&AI Ping
+Implementation: 1
+Version: 1
+Long Identifier: Ritchey&AI Ping i1 v1
+Short Identifier: R&AIPi1v1
+Description: An EXPERIMENTAL user-defined PHP function for pinging a domain, or an IP address.
+History:
+ - Project started July 7, 2024.
+ - Version 1 completed July 7, 2024.
+Author: James Daniel Marrs Ritchey
+Licensing: This project is hereby licensed under the Ritchey Permissive License v16.
+Notes:
+ - This project was developed in part by using the tool GitHub Copilot Business, which is an AI tool.
+ - This project seems to be functioning as intended, but has had very limited testing. It is still considered experimental at this stage, so don't be surprised if it doesn't work correctly. You should vet the code before using it!
+ - The purpose of this project was to get practice using AI-based tools, and generate custom example code, which may aid in development of future projects. It is not, and likely will never be a polished work.
